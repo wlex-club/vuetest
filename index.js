@@ -16,6 +16,7 @@ class CaseMap extends Component {
     render() {
         return (
             <div className="">
+                <p>修复一个bug</p>
             </div>
         )
     }
