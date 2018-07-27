@@ -16,7 +16,7 @@ class CaseMap extends Component {
     render() {
         return (
             <div className="">
-                很好
+                很好测绘
             </div>
         )
     }
