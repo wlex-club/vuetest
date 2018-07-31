@@ -15,8 +15,8 @@ class CaseMap extends Component {
 
     render() {
         return (
-            <div className="">
-                XIUGAI
+            <div className="go">
+                XIUGAIpop
             </div>
         )
     }
