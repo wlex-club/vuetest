@@ -16,7 +16,7 @@ class CaseMap extends Component {
     render() {
         return (
             <div className="">
-                线上更新1
+                XIUGAI
             </div>
         )
     }
