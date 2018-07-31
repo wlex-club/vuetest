@@ -16,7 +16,7 @@ class CaseMap extends Component {
     render() {
         return (
             <div className="">
-                asdfasdfasdfasdsdf
+                XIUGAI
             </div>
         )
     }
