@@ -16,7 +16,7 @@ class CaseMap extends Component {
     render() {
         return (
             <div className="go">
-               拉去测试
+               拉去测试《新的代码》
             </div>
         )
     }
