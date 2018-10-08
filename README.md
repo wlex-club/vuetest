@@ -2,8 +2,8 @@
 全局引入less、sass
 
 npm install less less-loader --save 
-或者
-npm install sass-loader node-sass --save-dev
+  或者
+  npm install sass-loader node-sass --save-dev
 
 接着再安装
 npm install sass-resources-loader --save-dev
